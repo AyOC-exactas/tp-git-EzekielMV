@@ -1,6 +1,3 @@
-# Presentación
-Hola! Mi nombre es [COMPLETAR].
+Hola, soy Ezequiel Muñoz.
+Estudiante de la carrera de ciencias de la computación y no es mi primera vez usando git pero es un pero es un programa de repositorio bastante complejo.
 
-En mi tiempo libre me gusta...
-
-Mi instrucción favorita del manual de intel es...
